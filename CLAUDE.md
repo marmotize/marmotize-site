@@ -27,7 +27,7 @@ This is an Astro Nano portfolio and blog site built with:
 
 ### Key Directories
 
-- `src/content/` - Content collections for blog posts, projects, and work experience
+- `src/content/` - Content collections for blog posts
   - Each collection has its own schema defined in `src/content/config.ts`
   - Blog posts support drafts and MDX components
   
@@ -43,8 +43,6 @@ This is an Astro Nano portfolio and blog site built with:
 
 Three main collections defined with Zod schemas:
 1. **blog** - Articles with title, description, date, and optional draft status
-2. **projects** - Portfolio projects with optional demo/repo URLs
-3. **work** - Work experience entries with company, role, and date range
 
 ### Styling Conventions
 - Uses Tailwind CSS with typography plugin
