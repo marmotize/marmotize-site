@@ -5,7 +5,7 @@ date: 2025-08-09
 draft: false
 ---
 
-Finally, after years of procrastination, I start this blog!.
+Finally, after years of procrastination, I start this blog!
 
 I am a 29 year old Software Engineer turned AI Engineer based in Lausanne, Switzerland.
 
